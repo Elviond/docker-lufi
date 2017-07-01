@@ -11,8 +11,8 @@ ENV GID=991 \
 
 LABEL description="lufi based on alpine" \
       tags="latest" \
-      maintainer="xataz <https://github.com/xataz>" \
-      build_ver="2017062901"
+      maintainer="elviond <https://github.com/elviond>" \
+      build_ver="2017073001"
 
 RUN BUILD_DEPS="build-base \
                 libressl-dev \
