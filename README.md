@@ -8,7 +8,7 @@
 > If you don't trust, you can build yourself.
 
 ## Tag available
-* latest [(lufi/Dockerfile)](https://github.com/xataz/dockerfiles/blob/master/lufi/Dockerfile)
+* latest [(lufi/Dockerfile)](https://github.com/Elviond/docker-lufi/blob/master/Dockerfile)
 
 ## Description
 What is [lufi](https://git.framasoft.org/luc/lufi) ?
@@ -24,7 +24,7 @@ Is that all? No. All the files are encrypted by the browser! It means that your 
 ## BUILD IMAGE
 
 ```shell
-docker build -t xataz/lufi github.com/xataz/dockerfiles.git#master:lufi
+docker build -t elviond/lufi github.com/Elviond/docker-lufi.git
 ```
 
 ## Configuration
