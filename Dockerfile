@@ -1,4 +1,4 @@
-FROM xataz/alpine:3.6
+FROM arm32v6/alpine:3.6
 
 ENV GID=991 \
     UID=991 \
